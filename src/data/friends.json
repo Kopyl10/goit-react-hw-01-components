@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Mango",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998592.png",
+    "isOnline": true
+  },
+  {
+    "id": 2,
+    "name": "Kiwi",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+    "isOnline": false
+  },
+  {
+    "id": 3,
+    "name": "Ajax",
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998759.png",
+    "isOnline": true
+  }
+]
